@@ -1,5 +1,9 @@
 [
   {
+    "package": "asylum",
+    "oncran": true
+  },
+  {
     "package": "IMD",
     "oncran": true
   }
