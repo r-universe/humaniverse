@@ -1,10 +1,10 @@
 [
   {
-    "package": "asylum",
+    "package": "IMD",
     "oncran": true
   },
   {
-    "package": "IMD",
+    "package": "asylum",
     "oncran": true
   }
 ]
