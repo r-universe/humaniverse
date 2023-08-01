@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "asylum"]
-	path = asylum
-	url = https://github.com/humaniverse/asylum
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/imd
+[submodule "asylum"]
+	path = asylum
+	url = https://github.com/humaniverse/asylum
