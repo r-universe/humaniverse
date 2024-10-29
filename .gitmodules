@@ -20,6 +20,9 @@
 [submodule "healthyr"]
 	path = healthyr
 	url = https://github.com/humaniverse/healthyr
+[submodule "hiedata"]
+	path = hiedata
+	url = https://github.com/humaniverse/hiedata
 [submodule "loneliness"]
 	path = loneliness
 	url = https://github.com/humaniverse/loneliness
