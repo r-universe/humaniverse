@@ -17,6 +17,15 @@
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
+[submodule "health-index-wales"]
+	path = health-index-wales
+	url = https://github.com/humaniverse/health-index-wales
+[submodule "healthindexni"]
+	path = healthindexni
+	url = https://github.com/humaniverse/healthindexni
+[submodule "healthindexscotland"]
+	path = healthindexscotland
+	url = https://github.com/humaniverse/healthindexscotland
 [submodule "healthyr"]
 	path = healthyr
 	url = https://github.com/humaniverse/healthyr
