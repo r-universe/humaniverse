@@ -17,6 +17,9 @@
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
+[submodule "globalvuln"]
+	path = globalvuln
+	url = https://github.com/humaniverse/globalvuln
 [submodule "healthindexni"]
 	path = healthindexni
 	url = https://github.com/humaniverse/healthindexni
